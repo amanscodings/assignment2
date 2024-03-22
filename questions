@@ -1,0 +1,4 @@
+with the command find /etc -type f > one.txt 2> two.txt
+we are using the find command to search for files -type f in 
+the /etc directory and its subdirectories. We are opneing file one but if theres anything wrong
+then file is saved to two.text.
